@@ -131,7 +131,7 @@ python3 vbb2voc.py
        
 ## 6.visualize box run find_xml_with_jpg.py    
 `python3 visualize_bbox.py`        
-<img src="http://10.10.20.254:7070/gu/caltechpreprocess/tree/master/gif/visbox.gif" width="640" height="480"/>       
+<img src="https://github.com/gmt710/CaltechPreprocess/blob/master/gif/visbox.gif" width="640" height="480"/>       
           
 ## 7.run generete_txt.py           
 使用generete_txt.py生成训练集与测试集：         
